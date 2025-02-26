@@ -1,3 +1,8 @@
+# How to become a smart contract auditor?
+Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
+![](/image/Smart_Contract_Auditor.png)
+
+
 # Awesome-web3-Security ![awesome](https://awesome.re/badge.svg)
 ![](/image/banner.jpg)
 ---
@@ -23,9 +28,6 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
 
-# How to become a smart contract auditor?
-Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
-![](/image/Smart_Contract_Auditor.png)
 
 # Web3 Security Tools
 Open the [MindMap](https://xmind.works/share/zfdeD07U)
